@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+python-dotenv
+pwdlib[argon2]
+joserfc
+google-adk
+pytest
+httpx
